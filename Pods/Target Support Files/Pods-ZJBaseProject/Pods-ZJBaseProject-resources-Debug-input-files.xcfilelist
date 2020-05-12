@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-ZJBaseProject/Pods-ZJBaseProject-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/FFToast/FFToast.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/IQKeyboardManager/IQKeyboardManager.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/QMUIKit/QMUIResources.bundle
